@@ -1,1 +1,1 @@
-dialaproperty.github.io
+dialaproperty.io
